@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  },
+  "name": "exercicio_apoio_12_09",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silva-leonardo/Exercicio_01_Usjt_SD_Mobile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silva-leonardo/Exercicio_01_Usjt_SD_Mobile/issues"
+  },
+  "homepage": "https://github.com/silva-leonardo/Exercicio_01_Usjt_SD_Mobile#readme",
+  "description": ""
+}
